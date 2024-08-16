@@ -1,0 +1,926 @@
+Using seed: 2024
+Loading model: resnet50
+zs.shape: (50000, 2048)
+Val acc: 0.8122, mean conf: 0.7907
+finished temp 0.8640745573024381
+Epoch 1/100 Loss: 0.00036590
+Epoch 2/100 Loss: 0.00035786
+Epoch 3/100 Loss: 0.00036956
+Epoch 4/100 Loss: 0.00035383
+Epoch 5/100 Loss: 0.00033496
+Epoch 6/100 Loss: 0.00032822
+Epoch 7/100 Loss: 0.00038255
+Epoch 8/100 Loss: 0.00032417
+Epoch 9/100 Loss: 0.00036519
+Epoch 10/100 Loss: 0.00033686
+Epoch 11/100 Loss: 0.00032947
+Epoch 12/100 Loss: 0.00037891
+Epoch 13/100 Loss: 0.00034455
+Epoch 14/100 Loss: 0.00039564
+Epoch 15/100 Loss: 0.00036787
+Epoch 16/100 Loss: 0.00032183
+Epoch 17/100 Loss: 0.00029763
+Epoch 18/100 Loss: 0.00034447
+Epoch 19/100 Loss: 0.00030165
+Epoch 20/100 Loss: 0.00036280
+Epoch 21/100 Loss: 0.00035274
+Epoch 22/100 Loss: 0.00030878
+Epoch 23/100 Loss: 0.00030848
+Epoch 24/100 Loss: 0.00032712
+Epoch 25/100 Loss: 0.00032047
+Epoch 26/100 Loss: 0.00034848
+Epoch 27/100 Loss: 0.00032403
+Epoch 28/100 Loss: 0.00036637
+Epoch 29/100 Loss: 0.00034883
+Epoch 30/100 Loss: 0.00030169
+Epoch 31/100 Loss: 0.00033065
+Epoch 32/100 Loss: 0.00033895
+Epoch 33/100 Loss: 0.00037201
+Epoch 34/100 Loss: 0.00030826
+Epoch 35/100 Loss: 0.00031547
+Epoch 36/100 Loss: 0.00032976
+Epoch 37/100 Loss: 0.00034931
+Epoch 38/100 Loss: 0.00039318
+Epoch 39/100 Loss: 0.00031396
+Epoch 40/100 Loss: 0.00036512
+Epoch 41/100 Loss: 0.00031604
+Epoch 42/100 Loss: 0.00037113
+Epoch 43/100 Loss: 0.00030854
+Epoch 44/100 Loss: 0.00038971
+Epoch 45/100 Loss: 0.00029566
+Epoch 46/100 Loss: 0.00035711
+Epoch 47/100 Loss: 0.00029989
+Epoch 48/100 Loss: 0.00031589
+Epoch 49/100 Loss: 0.00030532
+Epoch 50/100 Loss: 0.00031236
+Epoch 51/100 Loss: 0.00027386
+Epoch 52/100 Loss: 0.00028614
+Epoch 53/100 Loss: 0.00028848
+Epoch 54/100 Loss: 0.00027614
+Epoch 55/100 Loss: 0.00027949
+Epoch 56/100 Loss: 0.00030548
+Epoch 57/100 Loss: 0.00028993
+Epoch 58/100 Loss: 0.00026182
+Epoch 59/100 Loss: 0.00026417
+Epoch 60/100 Loss: 0.00025426
+Epoch 61/100 Loss: 0.00026696
+Epoch 62/100 Loss: 0.00025708
+Epoch 63/100 Loss: 0.00027557
+Epoch 64/100 Loss: 0.00027020
+Epoch 65/100 Loss: 0.00028507
+Epoch 66/100 Loss: 0.00028067
+Epoch 67/100 Loss: 0.00026641
+Epoch 68/100 Loss: 0.00024522
+Epoch 69/100 Loss: 0.00027023
+Epoch 70/100 Loss: 0.00027471
+Epoch 71/100 Loss: 0.00029128
+Epoch 72/100 Loss: 0.00027436
+Epoch 73/100 Loss: 0.00026704
+Epoch 74/100 Loss: 0.00029302
+Epoch 75/100 Loss: 0.00031692
+Epoch 76/100 Loss: 0.00026294
+Epoch 77/100 Loss: 0.00029201
+Epoch 78/100 Loss: 0.00027893
+Epoch 79/100 Loss: 0.00026730
+Epoch 80/100 Loss: 0.00027244
+Epoch 81/100 Loss: 0.00026493
+Epoch 82/100 Loss: 0.00026431
+Epoch 83/100 Loss: 0.00027789
+Epoch 84/100 Loss: 0.00027514
+Epoch 85/100 Loss: 0.00025930
+Epoch 86/100 Loss: 0.00027236
+Epoch 87/100 Loss: 0.00029645
+Epoch 88/100 Loss: 0.00028341
+Epoch 89/100 Loss: 0.00028768
+Epoch 90/100 Loss: 0.00027978
+Epoch 91/100 Loss: 0.00027835
+Epoch 92/100 Loss: 0.00024304
+Epoch 93/100 Loss: 0.00027880
+Epoch 94/100 Loss: 0.00026308
+Epoch 95/100 Loss: 0.00026112
+Epoch 96/100 Loss: 0.00028549
+Epoch 97/100 Loss: 0.00029691
+Epoch 98/100 Loss: 0.00027646
+Epoch 99/100 Loss: 0.00030046
+Epoch 100/100 Loss: 0.00028032
+Epoch 1/100 Loss: 0.00025874
+Epoch 2/100 Loss: 0.00026411
+Epoch 3/100 Loss: 0.00023699
+Epoch 4/100 Loss: 0.00029891
+Epoch 5/100 Loss: 0.00028590
+Epoch 6/100 Loss: 0.00028502
+Epoch 7/100 Loss: 0.00027105
+Epoch 8/100 Loss: 0.00025657
+Epoch 9/100 Loss: 0.00030061
+Epoch 10/100 Loss: 0.00026962
+Epoch 11/100 Loss: 0.00029933
+Epoch 12/100 Loss: 0.00026840
+Epoch 13/100 Loss: 0.00026927
+Epoch 14/100 Loss: 0.00027419
+Epoch 15/100 Loss: 0.00028358
+Epoch 16/100 Loss: 0.00027015
+Epoch 17/100 Loss: 0.00031518
+Epoch 18/100 Loss: 0.00026237
+Epoch 19/100 Loss: 0.00026908
+Epoch 20/100 Loss: 0.00026929
+Epoch 21/100 Loss: 0.00026882
+Epoch 22/100 Loss: 0.00025256
+Epoch 23/100 Loss: 0.00026246
+Epoch 24/100 Loss: 0.00029076
+Epoch 25/100 Loss: 0.00030505
+Epoch 26/100 Loss: 0.00025692
+Epoch 27/100 Loss: 0.00026965
+Epoch 28/100 Loss: 0.00025586
+Epoch 29/100 Loss: 0.00027817
+Epoch 30/100 Loss: 0.00025248
+Epoch 31/100 Loss: 0.00027231
+Epoch 32/100 Loss: 0.00027554
+Epoch 33/100 Loss: 0.00028618
+Epoch 34/100 Loss: 0.00024885
+Epoch 35/100 Loss: 0.00028059
+Epoch 36/100 Loss: 0.00028694
+Epoch 37/100 Loss: 0.00027699
+Epoch 38/100 Loss: 0.00028180
+Epoch 39/100 Loss: 0.00026465
+Epoch 40/100 Loss: 0.00027330
+Epoch 41/100 Loss: 0.00027534
+Epoch 42/100 Loss: 0.00026042
+Epoch 43/100 Loss: 0.00026945
+Epoch 44/100 Loss: 0.00028113
+Epoch 45/100 Loss: 0.00026211
+Epoch 46/100 Loss: 0.00025907
+Epoch 47/100 Loss: 0.00024438
+Epoch 48/100 Loss: 0.00029438
+Epoch 49/100 Loss: 0.00025126
+Epoch 50/100 Loss: 0.00026229
+Epoch 51/100 Loss: 0.00027383
+Epoch 52/100 Loss: 0.00027820
+Epoch 53/100 Loss: 0.00028514
+Epoch 54/100 Loss: 0.00023969
+Epoch 55/100 Loss: 0.00030116
+Epoch 56/100 Loss: 0.00025792
+Epoch 57/100 Loss: 0.00028072
+Epoch 58/100 Loss: 0.00029020
+Epoch 59/100 Loss: 0.00027959
+Epoch 60/100 Loss: 0.00029771
+Epoch 61/100 Loss: 0.00026402
+Epoch 62/100 Loss: 0.00027793
+Epoch 63/100 Loss: 0.00030269
+Epoch 64/100 Loss: 0.00024764
+Epoch 65/100 Loss: 0.00028092
+Epoch 66/100 Loss: 0.00022815
+Epoch 67/100 Loss: 0.00028859
+Epoch 68/100 Loss: 0.00025568
+Epoch 69/100 Loss: 0.00028454
+Epoch 70/100 Loss: 0.00029782
+Epoch 71/100 Loss: 0.00028017
+Epoch 72/100 Loss: 0.00027848
+Epoch 73/100 Loss: 0.00025747
+Epoch 74/100 Loss: 0.00027546
+Epoch 75/100 Loss: 0.00027513
+Epoch 76/100 Loss: 0.00026740
+Epoch 77/100 Loss: 0.00026385
+Epoch 78/100 Loss: 0.00026723
+Epoch 79/100 Loss: 0.00027929
+Epoch 80/100 Loss: 0.00024818
+Epoch 81/100 Loss: 0.00026445
+Epoch 82/100 Loss: 0.00027990
+Epoch 83/100 Loss: 0.00026715
+Epoch 84/100 Loss: 0.00029169
+Epoch 85/100 Loss: 0.00027357
+Epoch 86/100 Loss: 0.00027934
+Epoch 87/100 Loss: 0.00027148
+Epoch 88/100 Loss: 0.00026960
+Epoch 89/100 Loss: 0.00028712
+Epoch 90/100 Loss: 0.00028857
+Epoch 91/100 Loss: 0.00025261
+Epoch 92/100 Loss: 0.00027699
+Epoch 93/100 Loss: 0.00028756
+Epoch 94/100 Loss: 0.00025299
+Epoch 95/100 Loss: 0.00027227
+Epoch 96/100 Loss: 0.00027259
+Epoch 97/100 Loss: 0.00028305
+Epoch 98/100 Loss: 0.00025082
+Epoch 99/100 Loss: 0.00028564
+Epoch 100/100 Loss: 0.00027364
+ETS finished temp 0.8808979070132769
+Optimization terminated successfully    (Exit mode 0)
+            Current function value: 0.0002731344363985384
+            Iterations: 7
+            Function evaluations: 34
+            Gradient evaluations: 7
+weight = [9.75841068e-01 5.66845976e-04 2.35920857e-02]
+Density Estimation Done.
+Density Estimation Done.
+Density Estimation Done.
+Density Estimation Done.
+Density Estimation Done.
+WARNING: Not all class labels are present in ground truth array 'y'. This could led to errors in some models.
+WARNING: no training data for label 3 present
+WARNING: no training data for label 11 present
+WARNING: no training data for label 19 present
+WARNING: no training data for label 20 present
+WARNING: no training data for label 22 present
+WARNING: no training data for label 23 present
+WARNING: no training data for label 24 present
+WARNING: no training data for label 39 present
+WARNING: no training data for label 40 present
+WARNING: no training data for label 41 present
+WARNING: no training data for label 42 present
+WARNING: no training data for label 46 present
+WARNING: no training data for label 54 present
+WARNING: no training data for label 55 present
+WARNING: no training data for label 63 present
+WARNING: no training data for label 66 present
+WARNING: no training data for label 72 present
+WARNING: no training data for label 73 present
+WARNING: no training data for label 74 present
+WARNING: no training data for label 75 present
+WARNING: no training data for label 77 present
+WARNING: no training data for label 80 present
+WARNING: no training data for label 86 present
+WARNING: no training data for label 90 present
+WARNING: no training data for label 92 present
+WARNING: no training data for label 95 present
+WARNING: no training data for label 98 present
+WARNING: no training data for label 110 present
+WARNING: no training data for label 115 present
+WARNING: no training data for label 129 present
+WARNING: no training data for label 135 present
+WARNING: no training data for label 136 present
+WARNING: no training data for label 137 present
+WARNING: no training data for label 138 present
+WARNING: no training data for label 139 present
+WARNING: no training data for label 142 present
+WARNING: no training data for label 143 present
+WARNING: no training data for label 255 present
+WARNING: no training data for label 275 present
+WARNING: no training data for label 288 present
+WARNING: no training data for label 289 present
+WARNING: no training data for label 292 present
+WARNING: no training data for label 300 present
+WARNING: no training data for label 302 present
+WARNING: no training data for label 304 present
+WARNING: no training data for label 318 present
+WARNING: no training data for label 320 present
+WARNING: no training data for label 321 present
+WARNING: no training data for label 324 present
+WARNING: no training data for label 325 present
+WARNING: no training data for label 326 present
+WARNING: no training data for label 333 present
+WARNING: no training data for label 351 present
+WARNING: no training data for label 375 present
+WARNING: no training data for label 376 present
+WARNING: no training data for label 404 present
+WARNING: no training data for label 407 present
+WARNING: no training data for label 420 present
+WARNING: no training data for label 437 present
+WARNING: no training data for label 472 present
+WARNING: no training data for label 476 present
+WARNING: no training data for label 482 present
+WARNING: no training data for label 486 present
+WARNING: no training data for label 510 present
+WARNING: no training data for label 527 present
+WARNING: no training data for label 533 present
+WARNING: no training data for label 547 present
+WARNING: no training data for label 548 present
+WARNING: no training data for label 565 present
+WARNING: no training data for label 612 present
+WARNING: no training data for label 661 present
+WARNING: no training data for label 685 present
+WARNING: no training data for label 688 present
+WARNING: no training data for label 713 present
+WARNING: no training data for label 810 present
+WARNING: no training data for label 812 present
+WARNING: no training data for label 820 present
+WARNING: no training data for label 874 present
+WARNING: no training data for label 878 present
+WARNING: no training data for label 916 present
+WARNING: no training data for label 920 present
+WARNING: no training data for label 937 present
+WARNING: no training data for label 938 present
+WARNING: no training data for label 959 present
+WARNING: no training data for label 974 present
+WARNING: no training data for label 986 present
+WARNING: no training data for label 988 present
+WARNING: no training data for label 991 present
+WARNING: no training data for label 993 present
+WARNING: Not all class labels are present in ground truth array 'y'. This could led to errors in some models.
+WARNING: no training data for label 13 present
+WARNING: no training data for label 14 present
+WARNING: no training data for label 15 present
+WARNING: no training data for label 16 present
+WARNING: no training data for label 24 present
+WARNING: no training data for label 25 present
+WARNING: no training data for label 26 present
+WARNING: no training data for label 27 present
+WARNING: no training data for label 39 present
+WARNING: no training data for label 40 present
+WARNING: no training data for label 41 present
+WARNING: no training data for label 42 present
+WARNING: no training data for label 43 present
+WARNING: no training data for label 55 present
+WARNING: no training data for label 72 present
+WARNING: no training data for label 78 present
+WARNING: no training data for label 83 present
+WARNING: no training data for label 85 present
+WARNING: no training data for label 88 present
+WARNING: no training data for label 90 present
+WARNING: no training data for label 92 present
+WARNING: no training data for label 95 present
+WARNING: no training data for label 105 present
+WARNING: no training data for label 109 present
+WARNING: no training data for label 110 present
+WARNING: no training data for label 111 present
+WARNING: no training data for label 129 present
+WARNING: no training data for label 133 present
+WARNING: no training data for label 135 present
+WARNING: no training data for label 138 present
+WARNING: no training data for label 139 present
+WARNING: no training data for label 141 present
+WARNING: no training data for label 244 present
+WARNING: no training data for label 274 present
+WARNING: no training data for label 288 present
+WARNING: no training data for label 293 present
+WARNING: no training data for label 300 present
+WARNING: no training data for label 302 present
+WARNING: no training data for label 304 present
+WARNING: no training data for label 310 present
+WARNING: no training data for label 316 present
+WARNING: no training data for label 317 present
+WARNING: no training data for label 320 present
+WARNING: no training data for label 321 present
+WARNING: no training data for label 324 present
+WARNING: no training data for label 325 present
+WARNING: no training data for label 326 present
+WARNING: no training data for label 342 present
+WARNING: no training data for label 355 present
+WARNING: no training data for label 362 present
+WARNING: no training data for label 364 present
+WARNING: no training data for label 376 present
+WARNING: no training data for label 380 present
+WARNING: no training data for label 382 present
+WARNING: no training data for label 392 present
+WARNING: no training data for label 397 present
+WARNING: no training data for label 407 present
+WARNING: no training data for label 410 present
+WARNING: no training data for label 417 present
+WARNING: no training data for label 701 present
+WARNING: no training data for label 810 present
+WARNING: no training data for label 829 present
+WARNING: no training data for label 874 present
+WARNING: no training data for label 908 present
+WARNING: no training data for label 944 present
+WARNING: no training data for label 946 present
+WARNING: no training data for label 973 present
+WARNING: no training data for label 974 present
+WARNING: no training data for label 984 present
+WARNING: no training data for label 986 present
+WARNING: no training data for label 991 present
+WARNING: no training data for label 992 present
+WARNING: no training data for label 993 present
+WARNING: no training data for label 995 present
+WARNING: Not all class labels are present in ground truth array 'y'. This could led to errors in some models.
+WARNING: no training data for label 9 present
+WARNING: no training data for label 13 present
+WARNING: no training data for label 15 present
+WARNING: no training data for label 72 present
+WARNING: no training data for label 83 present
+WARNING: no training data for label 92 present
+WARNING: no training data for label 95 present
+WARNING: no training data for label 100 present
+WARNING: no training data for label 107 present
+WARNING: no training data for label 116 present
+WARNING: no training data for label 129 present
+WARNING: no training data for label 139 present
+WARNING: no training data for label 140 present
+WARNING: no training data for label 142 present
+WARNING: no training data for label 143 present
+WARNING: no training data for label 179 present
+WARNING: no training data for label 275 present
+WARNING: no training data for label 288 present
+WARNING: no training data for label 289 present
+WARNING: no training data for label 290 present
+WARNING: no training data for label 293 present
+WARNING: no training data for label 317 present
+WARNING: no training data for label 320 present
+WARNING: no training data for label 325 present
+WARNING: no training data for label 340 present
+WARNING: no training data for label 392 present
+WARNING: no training data for label 396 present
+WARNING: no training data for label 412 present
+WARNING: no training data for label 447 present
+WARNING: no training data for label 463 present
+WARNING: no training data for label 464 present
+WARNING: no training data for label 478 present
+WARNING: no training data for label 492 present
+WARNING: no training data for label 537 present
+WARNING: no training data for label 556 present
+WARNING: no training data for label 618 present
+WARNING: no training data for label 623 present
+WARNING: no training data for label 640 present
+WARNING: no training data for label 643 present
+WARNING: no training data for label 685 present
+WARNING: no training data for label 689 present
+WARNING: no training data for label 692 present
+WARNING: no training data for label 715 present
+WARNING: no training data for label 780 present
+WARNING: no training data for label 842 present
+WARNING: no training data for label 868 present
+WARNING: no training data for label 895 present
+WARNING: no training data for label 944 present
+WARNING: no training data for label 951 present
+WARNING: no training data for label 983 present
+WARNING: no training data for label 986 present
+WARNING: no training data for label 991 present
+WARNING: no training data for label 993 present
+WARNING: no training data for label 994 present
+WARNING: no training data for label 995 present
+WARNING: Not all class labels are present in ground truth array 'y'. This could led to errors in some models.
+WARNING: no training data for label 76 present
+WARNING: no training data for label 95 present
+WARNING: no training data for label 96 present
+WARNING: no training data for label 151 present
+WARNING: no training data for label 158 present
+WARNING: no training data for label 162 present
+WARNING: no training data for label 168 present
+WARNING: no training data for label 180 present
+WARNING: no training data for label 186 present
+WARNING: no training data for label 197 present
+WARNING: no training data for label 202 present
+WARNING: no training data for label 204 present
+WARNING: no training data for label 212 present
+WARNING: no training data for label 217 present
+WARNING: no training data for label 227 present
+WARNING: no training data for label 233 present
+WARNING: no training data for label 236 present
+WARNING: no training data for label 246 present
+WARNING: no training data for label 265 present
+WARNING: no training data for label 266 present
+WARNING: no training data for label 324 present
+WARNING: no training data for label 411 present
+WARNING: no training data for label 412 present
+WARNING: no training data for label 413 present
+WARNING: no training data for label 428 present
+WARNING: no training data for label 429 present
+WARNING: no training data for label 432 present
+WARNING: no training data for label 433 present
+WARNING: no training data for label 445 present
+WARNING: no training data for label 446 present
+WARNING: no training data for label 447 present
+WARNING: no training data for label 448 present
+WARNING: no training data for label 452 present
+WARNING: no training data for label 454 present
+WARNING: no training data for label 456 present
+WARNING: no training data for label 457 present
+WARNING: no training data for label 463 present
+WARNING: no training data for label 464 present
+WARNING: no training data for label 468 present
+WARNING: no training data for label 469 present
+WARNING: no training data for label 470 present
+WARNING: no training data for label 477 present
+WARNING: no training data for label 478 present
+WARNING: no training data for label 489 present
+WARNING: no training data for label 492 present
+WARNING: no training data for label 493 present
+WARNING: no training data for label 499 present
+WARNING: no training data for label 501 present
+WARNING: no training data for label 502 present
+WARNING: no training data for label 504 present
+WARNING: no training data for label 507 present
+WARNING: no training data for label 509 present
+WARNING: no training data for label 515 present
+WARNING: no training data for label 523 present
+WARNING: no training data for label 529 present
+WARNING: no training data for label 534 present
+WARNING: no training data for label 541 present
+WARNING: no training data for label 542 present
+WARNING: no training data for label 544 present
+WARNING: no training data for label 549 present
+WARNING: no training data for label 551 present
+WARNING: no training data for label 556 present
+WARNING: no training data for label 557 present
+WARNING: no training data for label 558 present
+WARNING: no training data for label 559 present
+WARNING: no training data for label 567 present
+WARNING: no training data for label 572 present
+WARNING: no training data for label 578 present
+WARNING: no training data for label 582 present
+WARNING: no training data for label 585 present
+WARNING: no training data for label 587 present
+WARNING: no training data for label 588 present
+WARNING: no training data for label 593 present
+WARNING: no training data for label 596 present
+WARNING: no training data for label 601 present
+WARNING: no training data for label 611 present
+WARNING: no training data for label 618 present
+WARNING: no training data for label 626 present
+WARNING: no training data for label 633 present
+WARNING: no training data for label 634 present
+WARNING: no training data for label 635 present
+WARNING: no training data for label 638 present
+WARNING: no training data for label 640 present
+WARNING: no training data for label 641 present
+WARNING: no training data for label 643 present
+WARNING: no training data for label 650 present
+WARNING: no training data for label 652 present
+WARNING: no training data for label 653 present
+WARNING: no training data for label 660 present
+WARNING: no training data for label 676 present
+WARNING: no training data for label 678 present
+WARNING: no training data for label 686 present
+WARNING: no training data for label 692 present
+WARNING: no training data for label 697 present
+WARNING: no training data for label 703 present
+WARNING: no training data for label 706 present
+WARNING: no training data for label 708 present
+WARNING: no training data for label 709 present
+WARNING: no training data for label 710 present
+WARNING: no training data for label 727 present
+WARNING: no training data for label 729 present
+WARNING: no training data for label 730 present
+WARNING: no training data for label 731 present
+WARNING: no training data for label 740 present
+WARNING: no training data for label 743 present
+WARNING: no training data for label 746 present
+WARNING: no training data for label 747 present
+WARNING: no training data for label 752 present
+WARNING: no training data for label 758 present
+WARNING: no training data for label 764 present
+WARNING: no training data for label 767 present
+WARNING: no training data for label 773 present
+WARNING: no training data for label 774 present
+WARNING: no training data for label 775 present
+WARNING: no training data for label 778 present
+WARNING: no training data for label 784 present
+WARNING: no training data for label 785 present
+WARNING: no training data for label 790 present
+WARNING: no training data for label 792 present
+WARNING: no training data for label 793 present
+WARNING: no training data for label 807 present
+WARNING: no training data for label 808 present
+WARNING: no training data for label 809 present
+WARNING: no training data for label 811 present
+WARNING: no training data for label 813 present
+WARNING: no training data for label 823 present
+WARNING: no training data for label 827 present
+WARNING: no training data for label 830 present
+WARNING: no training data for label 831 present
+WARNING: no training data for label 834 present
+WARNING: no training data for label 835 present
+WARNING: no training data for label 836 present
+WARNING: no training data for label 838 present
+WARNING: no training data for label 840 present
+WARNING: no training data for label 842 present
+WARNING: no training data for label 844 present
+WARNING: no training data for label 845 present
+WARNING: no training data for label 851 present
+WARNING: no training data for label 854 present
+WARNING: no training data for label 859 present
+WARNING: no training data for label 861 present
+WARNING: no training data for label 862 present
+WARNING: no training data for label 865 present
+WARNING: no training data for label 868 present
+WARNING: no training data for label 877 present
+WARNING: no training data for label 879 present
+WARNING: no training data for label 880 present
+WARNING: no training data for label 883 present
+WARNING: no training data for label 885 present
+WARNING: no training data for label 891 present
+WARNING: no training data for label 893 present
+WARNING: no training data for label 897 present
+WARNING: no training data for label 898 present
+WARNING: no training data for label 899 present
+WARNING: no training data for label 910 present
+WARNING: no training data for label 919 present
+WARNING: no training data for label 929 present
+WARNING: no training data for label 968 present
+WARNING: no training data for label 969 present
+WARNING: no training data for label 975 present
+WARNING: no training data for label 982 present
+WARNING: no training data for label 986 present
+WARNING: Not all class labels are present in ground truth array 'y'. This could led to errors in some models.
+WARNING: no training data for label 34 present
+WARNING: no training data for label 49 present
+WARNING: no training data for label 60 present
+WARNING: no training data for label 112 present
+WARNING: no training data for label 151 present
+WARNING: no training data for label 152 present
+WARNING: no training data for label 153 present
+WARNING: no training data for label 154 present
+WARNING: no training data for label 155 present
+WARNING: no training data for label 156 present
+WARNING: no training data for label 158 present
+WARNING: no training data for label 159 present
+WARNING: no training data for label 161 present
+WARNING: no training data for label 162 present
+WARNING: no training data for label 163 present
+WARNING: no training data for label 164 present
+WARNING: no training data for label 165 present
+WARNING: no training data for label 166 present
+WARNING: no training data for label 167 present
+WARNING: no training data for label 168 present
+WARNING: no training data for label 169 present
+WARNING: no training data for label 170 present
+WARNING: no training data for label 173 present
+WARNING: no training data for label 175 present
+WARNING: no training data for label 176 present
+WARNING: no training data for label 177 present
+WARNING: no training data for label 180 present
+WARNING: no training data for label 181 present
+WARNING: no training data for label 182 present
+WARNING: no training data for label 183 present
+WARNING: no training data for label 184 present
+WARNING: no training data for label 185 present
+WARNING: no training data for label 186 present
+WARNING: no training data for label 187 present
+WARNING: no training data for label 189 present
+WARNING: no training data for label 190 present
+WARNING: no training data for label 191 present
+WARNING: no training data for label 192 present
+WARNING: no training data for label 193 present
+WARNING: no training data for label 195 present
+WARNING: no training data for label 196 present
+WARNING: no training data for label 197 present
+WARNING: no training data for label 198 present
+WARNING: no training data for label 199 present
+WARNING: no training data for label 200 present
+WARNING: no training data for label 201 present
+WARNING: no training data for label 202 present
+WARNING: no training data for label 204 present
+WARNING: no training data for label 205 present
+WARNING: no training data for label 206 present
+WARNING: no training data for label 207 present
+WARNING: no training data for label 208 present
+WARNING: no training data for label 209 present
+WARNING: no training data for label 210 present
+WARNING: no training data for label 211 present
+WARNING: no training data for label 212 present
+WARNING: no training data for label 214 present
+WARNING: no training data for label 215 present
+WARNING: no training data for label 217 present
+WARNING: no training data for label 219 present
+WARNING: no training data for label 220 present
+WARNING: no training data for label 221 present
+WARNING: no training data for label 222 present
+WARNING: no training data for label 224 present
+WARNING: no training data for label 226 present
+WARNING: no training data for label 227 present
+WARNING: no training data for label 229 present
+WARNING: no training data for label 230 present
+WARNING: no training data for label 231 present
+WARNING: no training data for label 232 present
+WARNING: no training data for label 233 present
+WARNING: no training data for label 234 present
+WARNING: no training data for label 235 present
+WARNING: no training data for label 236 present
+WARNING: no training data for label 237 present
+WARNING: no training data for label 238 present
+WARNING: no training data for label 239 present
+WARNING: no training data for label 240 present
+WARNING: no training data for label 242 present
+WARNING: no training data for label 246 present
+WARNING: no training data for label 247 present
+WARNING: no training data for label 251 present
+WARNING: no training data for label 252 present
+WARNING: no training data for label 253 present
+WARNING: no training data for label 254 present
+WARNING: no training data for label 256 present
+WARNING: no training data for label 257 present
+WARNING: no training data for label 262 present
+WARNING: no training data for label 263 present
+WARNING: no training data for label 264 present
+WARNING: no training data for label 265 present
+WARNING: no training data for label 266 present
+WARNING: no training data for label 267 present
+WARNING: no training data for label 283 present
+WARNING: no training data for label 285 present
+WARNING: no training data for label 294 present
+WARNING: no training data for label 314 present
+WARNING: no training data for label 335 present
+WARNING: no training data for label 345 present
+WARNING: no training data for label 360 present
+WARNING: no training data for label 361 present
+WARNING: no training data for label 383 present
+WARNING: no training data for label 385 present
+WARNING: no training data for label 399 present
+WARNING: no training data for label 400 present
+WARNING: no training data for label 401 present
+WARNING: no training data for label 402 present
+WARNING: no training data for label 403 present
+WARNING: no training data for label 409 present
+WARNING: no training data for label 411 present
+WARNING: no training data for label 412 present
+WARNING: no training data for label 413 present
+WARNING: no training data for label 414 present
+WARNING: no training data for label 415 present
+WARNING: no training data for label 416 present
+WARNING: no training data for label 418 present
+WARNING: no training data for label 419 present
+WARNING: no training data for label 420 present
+WARNING: no training data for label 421 present
+WARNING: no training data for label 422 present
+WARNING: no training data for label 426 present
+WARNING: no training data for label 427 present
+WARNING: no training data for label 428 present
+WARNING: no training data for label 429 present
+WARNING: no training data for label 432 present
+WARNING: no training data for label 433 present
+WARNING: no training data for label 434 present
+WARNING: no training data for label 435 present
+WARNING: no training data for label 437 present
+WARNING: no training data for label 438 present
+WARNING: no training data for label 441 present
+WARNING: no training data for label 442 present
+WARNING: no training data for label 443 present
+WARNING: no training data for label 445 present
+WARNING: no training data for label 446 present
+WARNING: no training data for label 447 present
+WARNING: no training data for label 448 present
+WARNING: no training data for label 449 present
+WARNING: no training data for label 452 present
+WARNING: no training data for label 453 present
+WARNING: no training data for label 454 present
+WARNING: no training data for label 456 present
+WARNING: no training data for label 457 present
+WARNING: no training data for label 459 present
+WARNING: no training data for label 460 present
+WARNING: no training data for label 463 present
+WARNING: no training data for label 465 present
+WARNING: no training data for label 467 present
+WARNING: no training data for label 468 present
+WARNING: no training data for label 469 present
+WARNING: no training data for label 470 present
+WARNING: no training data for label 471 present
+WARNING: no training data for label 476 present
+WARNING: no training data for label 477 present
+WARNING: no training data for label 478 present
+WARNING: no training data for label 479 present
+WARNING: no training data for label 480 present
+WARNING: no training data for label 481 present
+WARNING: no training data for label 485 present
+WARNING: no training data for label 489 present
+WARNING: no training data for label 492 present
+WARNING: no training data for label 493 present
+WARNING: no training data for label 497 present
+WARNING: no training data for label 498 present
+WARNING: no training data for label 499 present
+WARNING: no training data for label 501 present
+WARNING: no training data for label 502 present
+WARNING: no training data for label 503 present
+WARNING: no training data for label 504 present
+WARNING: no training data for label 505 present
+WARNING: no training data for label 506 present
+WARNING: no training data for label 507 present
+WARNING: no training data for label 509 present
+WARNING: no training data for label 511 present
+WARNING: no training data for label 513 present
+WARNING: no training data for label 515 present
+WARNING: no training data for label 519 present
+WARNING: no training data for label 520 present
+WARNING: no training data for label 521 present
+WARNING: no training data for label 522 present
+WARNING: no training data for label 523 present
+WARNING: no training data for label 529 present
+WARNING: no training data for label 530 present
+WARNING: no training data for label 531 present
+WARNING: no training data for label 534 present
+WARNING: no training data for label 536 present
+WARNING: no training data for label 539 present
+WARNING: no training data for label 541 present
+WARNING: no training data for label 542 present
+WARNING: no training data for label 543 present
+WARNING: no training data for label 544 present
+WARNING: no training data for label 545 present
+WARNING: no training data for label 546 present
+WARNING: no training data for label 549 present
+WARNING: no training data for label 550 present
+WARNING: no training data for label 551 present
+WARNING: no training data for label 552 present
+WARNING: no training data for label 556 present
+WARNING: no training data for label 557 present
+WARNING: no training data for label 558 present
+WARNING: no training data for label 563 present
+WARNING: no training data for label 566 present
+WARNING: no training data for label 567 present
+WARNING: no training data for label 568 present
+WARNING: no training data for label 570 present
+WARNING: no training data for label 572 present
+WARNING: no training data for label 578 present
+WARNING: no training data for label 580 present
+WARNING: no training data for label 582 present
+WARNING: no training data for label 584 present
+WARNING: no training data for label 585 present
+WARNING: no training data for label 587 present
+WARNING: no training data for label 588 present
+WARNING: no training data for label 589 present
+WARNING: no training data for label 590 present
+WARNING: no training data for label 591 present
+WARNING: no training data for label 593 present
+WARNING: no training data for label 594 present
+WARNING: no training data for label 595 present
+WARNING: no training data for label 596 present
+WARNING: no training data for label 598 present
+WARNING: no training data for label 600 present
+WARNING: no training data for label 601 present
+WARNING: no training data for label 603 present
+WARNING: no training data for label 605 present
+WARNING: no training data for label 609 present
+WARNING: no training data for label 613 present
+WARNING: no training data for label 617 present
+WARNING: no training data for label 618 present
+WARNING: no training data for label 621 present
+WARNING: no training data for label 622 present
+WARNING: no training data for label 623 present
+WARNING: no training data for label 624 present
+WARNING: no training data for label 626 present
+WARNING: no training data for label 629 present
+WARNING: no training data for label 631 present
+WARNING: no training data for label 632 present
+WARNING: no training data for label 633 present
+WARNING: no training data for label 634 present
+WARNING: no training data for label 635 present
+WARNING: no training data for label 638 present
+WARNING: no training data for label 639 present
+WARNING: no training data for label 641 present
+WARNING: no training data for label 642 present
+WARNING: no training data for label 643 present
+WARNING: no training data for label 647 present
+WARNING: no training data for label 648 present
+WARNING: no training data for label 650 present
+WARNING: no training data for label 651 present
+WARNING: no training data for label 653 present
+WARNING: no training data for label 655 present
+WARNING: no training data for label 656 present
+WARNING: no training data for label 660 present
+WARNING: no training data for label 662 present
+WARNING: no training data for label 663 present
+WARNING: no training data for label 664 present
+WARNING: no training data for label 665 present
+WARNING: no training data for label 667 present
+WARNING: no training data for label 670 present
+WARNING: no training data for label 671 present
+WARNING: no training data for label 673 present
+WARNING: no training data for label 674 present
+WARNING: no training data for label 675 present
+WARNING: no training data for label 676 present
+WARNING: no training data for label 677 present
+WARNING: no training data for label 678 present
+WARNING: no training data for label 680 present
+WARNING: no training data for label 681 present
+WARNING: no training data for label 683 present
+WARNING: no training data for label 686 present
+WARNING: no training data for label 688 present
+WARNING: no training data for label 689 present
+WARNING: no training data for label 691 present
+WARNING: no training data for label 692 present
+WARNING: no training data for label 693 present
+WARNING: no training data for label 696 present
+WARNING: no training data for label 697 present
+WARNING: no training data for label 698 present
+WARNING: no training data for label 700 present
+WARNING: no training data for label 703 present
+WARNING: no training data for label 704 present
+WARNING: no training data for label 705 present
+WARNING: no training data for label 706 present
+WARNING: no training data for label 707 present
+WARNING: no training data for label 708 present
+WARNING: no training data for label 709 present
+WARNING: no training data for label 710 present
+WARNING: no training data for label 711 present
+WARNING: no training data for label 712 present
+WARNING: no training data for label 714 present
+WARNING: no training data for label 717 present
+WARNING: no training data for label 718 present
+WARNING: no training data for label 720 present
+WARNING: no training data for label 723 present
+WARNING: no training data for label 724 present
+WARNING: no training data for label 725 present
+WARNING: no training data for label 728 present
+WARNING: no training data for label 729 present
+WARNING: no training data for label 730 present
+WARNING: no training data for label 731 present
+WARNING: no training data for label 735 present
+WARNING: no training data for label 736 present
+WARNING: no training data for label 737 present
+WARNING: no training data for label 738 present
+WARNING: no training data for label 740 present
+WARNING: no training data for label 743 present
+WARNING: no training data for label 747 present
+WARNING: no training data for label 749 present
+WARNING: no training data for label 750 present
+WARNING: no training data for label 752 present
+WARNING: no training data for label 754 present
+WARNING: no training data for label 756 present
+WARNING: no training data for label 758 present
+WARNING: no training data for label 759 present
+WARNING: no training data for label 760 present
+WARNING: no training data for label 761 present
+WARNING: no training data for label 762 present
+WARNING: no training data for label 765 present
+WARNING: no training data for label 767 present
+WARNING: no training data for label 772 present
+WARNING: no training data for label 773 present
+WARNING: no training data for label 774 present
+WARNING: no training data for label 775 present
+WARNING: no training data for label 776 present

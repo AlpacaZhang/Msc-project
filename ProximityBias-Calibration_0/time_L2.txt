@@ -1,0 +1,150 @@
+conf cost:0.24377918243408203s
+temperature_scaling cost:3.83351993560791s
+histogram_binning cost:1.3594810962677002s
+isotonic_regression cost:2.8892149925231934s
+pts cost:16.188354969024658s
+pts_conf cost:34.11802315711975s
+ensemble_ts cost:5.793199062347412s
+multi_isotonic_regression cost:5.532632350921631s
+conf kde cost:6.512044668197632s
+temperature_scaling kde cost:6.276594638824463s
+pts kde cost:6.421428203582764s
+pts_knndist kde cost:6.3137733936309814s
+ensemble_ts kde cost:6.3621604442596436s
+histogram_binning BIN-MEAN-SHIFT cost:1.4062466621398926s
+multi_isotonic_regression BIN-MEAN-SHIFT cost:4.302705526351929s
+conf cost:0.24631595611572266s
+temperature_scaling cost:3.8346145153045654s
+histogram_binning cost:1.3357532024383545s
+isotonic_regression cost:2.9087235927581787s
+pts cost:15.703726291656494s
+pts_conf cost:33.6445951461792s
+ensemble_ts cost:5.73475456237793s
+multi_isotonic_regression cost:5.680715799331665s
+conf kde cost:6.5153279304504395s
+temperature_scaling kde cost:6.30095362663269s
+pts kde cost:6.452115297317505s
+pts_knndist kde cost:6.427859783172607s
+ensemble_ts kde cost:6.363723039627075s
+histogram_binning BIN-MEAN-SHIFT cost:1.402156114578247s
+multi_isotonic_regression BIN-MEAN-SHIFT cost:4.33538556098938s
+conf cost:0.24152183532714844s
+temperature_scaling cost:3.8384158611297607s
+histogram_binning cost:1.3536005020141602s
+isotonic_regression cost:2.86186146736145s
+pts cost:15.758705377578735s
+pts_conf cost:32.87142300605774s
+ensemble_ts cost:5.737914562225342s
+multi_isotonic_regression cost:5.5983567237854s
+conf kde cost:6.540607690811157s
+temperature_scaling kde cost:6.297389268875122s
+pts kde cost:6.3704164028167725s
+pts_knndist kde cost:6.414926528930664s
+ensemble_ts kde cost:6.3568339347839355s
+histogram_binning BIN-MEAN-SHIFT cost:1.4171943664550781s
+multi_isotonic_regression BIN-MEAN-SHIFT cost:4.336345195770264s
+conf cost:0.2408580780029297s
+temperature_scaling cost:3.9007675647735596s
+histogram_binning cost:1.3663170337677002s
+isotonic_regression cost:2.8900110721588135s
+pts cost:15.703947305679321s
+pts_conf cost:32.71637558937073s
+ensemble_ts cost:5.7537829875946045s
+multi_isotonic_regression cost:5.580259323120117s
+conf kde cost:6.514417409896851s
+temperature_scaling kde cost:6.256162643432617s
+pts kde cost:6.4146528244018555s
+pts_knndist kde cost:6.2698633670806885s
+ensemble_ts kde cost:6.342090606689453s
+histogram_binning BIN-MEAN-SHIFT cost:1.4036917686462402s
+multi_isotonic_regression BIN-MEAN-SHIFT cost:4.299956798553467s
+conf cost:0.24559450149536133s
+temperature_scaling cost:3.853856325149536s
+histogram_binning cost:1.3508610725402832s
+isotonic_regression cost:2.875999927520752s
+pts cost:15.786066055297852s
+pts_conf cost:32.95704531669617s
+ensemble_ts cost:5.729007005691528s
+multi_isotonic_regression cost:5.445191860198975s
+conf kde cost:6.499114751815796s
+temperature_scaling kde cost:6.269214153289795s
+pts kde cost:6.355518102645874s
+pts_knndist kde cost:6.3831398487091064s
+ensemble_ts kde cost:6.341525077819824s
+histogram_binning BIN-MEAN-SHIFT cost:1.3975496292114258s
+multi_isotonic_regression BIN-MEAN-SHIFT cost:4.289771556854248s
+conf cost:0.2747838497161865s
+temperature_scaling cost:3.223783254623413s
+histogram_binning cost:1.3440990447998047s
+isotonic_regression cost:2.8913519382476807s
+pts cost:16.023637533187866s
+pts_conf cost:33.8623480796814s
+ensemble_ts cost:11.139852523803711s
+multi_isotonic_regression cost:5.109522819519043s
+conf kde cost:6.559269189834595s
+temperature_scaling kde cost:6.335710763931274s
+pts kde cost:6.1831746101379395s
+pts_knndist kde cost:6.3360679149627686s
+ensemble_ts kde cost:6.352698087692261s
+histogram_binning BIN-MEAN-SHIFT cost:1.530649185180664s
+multi_isotonic_regression BIN-MEAN-SHIFT cost:4.297155141830444s
+conf cost:0.3330113887786865s
+temperature_scaling cost:3.2480838298797607s
+histogram_binning cost:1.346163272857666s
+isotonic_regression cost:2.9400787353515625s
+pts cost:16.778979539871216s
+pts_conf cost:36.04811882972717s
+ensemble_ts cost:13.201652526855469s
+multi_isotonic_regression cost:5.071271181106567s
+conf kde cost:6.549559116363525s
+temperature_scaling kde cost:6.311400651931763s
+pts kde cost:6.54925012588501s
+pts_knndist kde cost:6.342417001724243s
+ensemble_ts kde cost:6.306666135787964s
+histogram_binning BIN-MEAN-SHIFT cost:1.5063307285308838s
+multi_isotonic_regression BIN-MEAN-SHIFT cost:4.304245948791504s
+conf cost:0.2920815944671631s
+temperature_scaling cost:3.222135305404663s
+histogram_binning cost:1.3403728008270264s
+isotonic_regression cost:2.871887445449829s
+pts cost:16.75386118888855s
+pts_conf cost:35.3317334651947s
+ensemble_ts cost:12.648237943649292s
+multi_isotonic_regression cost:5.168958425521851s
+conf kde cost:6.532527685165405s
+temperature_scaling kde cost:6.286664724349976s
+pts kde cost:6.4457080364227295s
+pts_knndist kde cost:6.461972236633301s
+ensemble_ts kde cost:6.318385124206543s
+histogram_binning BIN-MEAN-SHIFT cost:1.5077722072601318s
+multi_isotonic_regression BIN-MEAN-SHIFT cost:4.281773328781128s
+conf cost:0.29335546493530273s
+temperature_scaling cost:3.238830804824829s
+histogram_binning cost:1.3592140674591064s
+isotonic_regression cost:2.885223388671875s
+pts cost:16.03264808654785s
+pts_conf cost:34.157833099365234s
+ensemble_ts cost:13.270682334899902s
+multi_isotonic_regression cost:5.176896810531616s
+conf kde cost:6.6105711460113525s
+temperature_scaling kde cost:6.347559690475464s
+pts kde cost:6.570664405822754s
+pts_knndist kde cost:6.381047248840332s
+ensemble_ts kde cost:6.375762462615967s
+histogram_binning BIN-MEAN-SHIFT cost:1.5269842147827148s
+multi_isotonic_regression BIN-MEAN-SHIFT cost:4.313909530639648s
+conf cost:0.28667426109313965s
+temperature_scaling cost:3.229942560195923s
+histogram_binning cost:1.350884199142456s
+isotonic_regression cost:2.894139528274536s
+pts cost:16.090351819992065s
+pts_conf cost:33.74147415161133s
+ensemble_ts cost:10.587212324142456s
+multi_isotonic_regression cost:5.097706079483032s
+conf kde cost:6.583411455154419s
+temperature_scaling kde cost:6.3436667919158936s
+pts kde cost:6.527302503585815s
+pts_knndist kde cost:6.448040246963501s
+ensemble_ts kde cost:6.369426965713501s
+histogram_binning BIN-MEAN-SHIFT cost:1.5302984714508057s
+multi_isotonic_regression BIN-MEAN-SHIFT cost:4.2540812492370605s
